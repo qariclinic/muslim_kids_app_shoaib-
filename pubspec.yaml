@@ -1,0 +1,31 @@
+name: muslim_kids_app_shoaib
+description: A comprehensive educational app for Muslim kids in Urdu, Arabic, and English.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # ملٹی لینگویج سپورٹ کے لیے
+  flutter_localizations:
+    sdk: flutter
+  # آئیکنز اور UI کے لیے
+  cupertino_icons: ^1.0.2
+  # مزید جمالیات کے لیے گوگل فونٹس استعمال کیے جا سکتے ہیں
+  # google_fonts: ^6.1.0 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+# Assets (تصاویر، آڈیو، ڈیٹا) یہاں شامل کریں
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/data/
+    - assets/audio/
