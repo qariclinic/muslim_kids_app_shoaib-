@@ -1,0 +1,55 @@
+{
+  "module_title": {
+    "ur": "وضو کا طریقہ",
+    "ar": "طريقة الوضوء",
+    "en": "How to Perform Wudu"
+  },
+  "steps": [
+    {
+      "step_number": 1,
+      "text": {
+        "ur": "نیت کرنا: دل میں ارادہ کریں کہ وضو اللہ کے لیے کر رہے ہیں۔ 'بسم اللہ' پڑھیں۔",
+        "ar": "النية والتسمية: تنوي بقلبك ثم تقول 'بسم الله'.",
+        "en": "Intention and Tasmiyah: Make an intention in your heart and say 'Bismillah'."
+      },
+      "image": "assets/images/illustrations/step1_intention.png"
+    },
+    {
+      "step_number": 2,
+      "text": {
+        "ur": "ہاتھ دھونا: دونوں ہاتھ گٹوں تک تین بار دھوئیں۔",
+        "ar": "غسل الكفين: تغسل الكفين إلى الرسغين ثلاث مرات.",
+        "en": "Wash the hands: Wash both hands up to the wrists three times."
+      },
+      "image": "assets/images/illustrations/step2_hands.png"
+    },
+    {
+      "step_number": 3,
+      "text": {
+        "ur": "کلی کرنا: تین بار کلی کریں۔",
+        "ar": "المضمضة: تتمضمض ثلاث مرات.",
+        "en": "Rinse the mouth: Rinse the mouth three times."
+      },
+      "image": "assets/images/illustrations/step3_mouth.png"
+    },
+    {
+      "step_number": 4,
+      "text": {
+        "ur": "ناک میں پانی ڈالنا: تین بار ناک میں پانی ڈال کر صاف کریں۔",
+        "ar": "الاستنشاق والاستنثار: تستنشق وتستنثر ثلاث مرات.",
+        "en": "Rinse the nose: Rinse the nose three times."
+      },
+      "image": "assets/images/illustrations/step4_nose.png"
+    },
+    {
+      "step_number": 5,
+      "text": {
+        "ur": "چہرہ دھونا: پورے چہرے کو پیشانی سے ٹھوڑی تک اور ایک کان کی لو سے دوسرے کان کی لو تک تین بار دھوئیں۔",
+        "ar": "غسل الوجه: تغسل وجهك كاملاً من منابت الشعر إلى الذقن، ومن الأذن إلى الأذن، ثلاث مرات.",
+        "en": "Wash the face: Wash the entire face from the hairline to the chin and from earlobe to earlobe three times."
+      },
+      "image": "assets/images/illustrations/step5_face.png"
+    }
+    //... (باقی مراحل یہاں آئیں گے)
+  ]
+}
